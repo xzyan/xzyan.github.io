@@ -1,13 +1,31 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
+
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>xzyan</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hey 👋, I'm xzyan</title>
+    <style>
+        html {
+            background-color: #000;
+            color: #EEE;
+        }
+
+        pre {
+            line-height: 1.2rem;
+        }
+
+        .main {
+            /* background-color: #888; */
+            width: 900px;
+            margin: auto;
+        }
+    </style>
 </head>
-<body>
-<h3>Hey wave, I'm xzyan</h3>
-<pre>
+
+<div class="main">
+    <h2>Hey 👋, I'm xzyan</h2>
+    <pre>
 profile := `
 Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 
@@ -16,15 +34,11 @@ Here are some quick things about me:
 
 fmt.Printf("%s\n", profile)
 
-me := map[string]string{
-"Name":    "Yan yingsong",
-"Job":     "Engineers and technical managers",
-"Company": "DBAPPSecurity IC",
-}
-
-for k, v := range me {
-fmt.Printf("- %s: %s \n", k, v)
-}
+- FullName: Yan Yingsong
+- Company:  DBAPPSecurity IC
+- Location: China HangZhou
+- Email:    17112yan@gmail.com
+- MyJob:    Engineers and technical managers
+- Skills:   C/C++, Go, Python, Js, Arduino, Linux, NoSQL
 </pre>
-</body>
-</html>
+</div>
