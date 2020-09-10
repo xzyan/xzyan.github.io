@@ -15,13 +15,13 @@
     </style>
     <g data-testid="card-title" transform="translate(25, 35)">
         <g transform="translate(0, 0)">
-            <text x="0" y="0" class="header" data-testid="header">Hobbies</text>
+            <text x="0" y="0" class="header" data-testid="header">兴趣爱好</text>
         </g>
     </g>
     <g data-testid="main-card-body" transform="translate(0, 55)">
         <svg data-testid="lang-items" x="25">
             <g transform="translate(0, 0)">
-                <text data-testid="lang-name" x="2" y="15" class="lang-name">电影/Movie</text>
+                <text data-testid="lang-name" x="2" y="15" class="lang-name">电影</text>
                 <!-- <text x="215" y="34" class="lang-name">70.00%</text> -->
                 <svg width="205">
                     <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd" />
@@ -30,7 +30,7 @@
                 </svg>
             </g>
             <g transform="translate(0, 40)">
-                <text data-testid="lang-name" x="2" y="15" class="lang-name">美食/Food</text>
+                <text data-testid="lang-name" x="2" y="15" class="lang-name">美食</text>
                 <!-- <text x="215" y="34" class="lang-name">30.00%</text> -->
                 <svg width="205">
                     <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd" />
@@ -39,7 +39,7 @@
                 </svg>
             </g>
             <g transform="translate(0, 80)">
-                <text data-testid="lang-name" x="2" y="15" class="lang-name">滑板/Skateboard</text>
+                <text data-testid="lang-name" x="2" y="15" class="lang-name">滑板</text>
                 <!-- <text x="215" y="34" class="lang-name">20.00%</text> -->
                 <svg width="205">
                     <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd" />
@@ -48,7 +48,7 @@
                 </svg>
             </g>
             <g transform="translate(0, 120)">
-                <text data-testid="lang-name" x="2" y="15" class="lang-name">编码/Coding</text>
+                <text data-testid="lang-name" x="2" y="15" class="lang-name">编码</text>
                 <!-- <text x="215" y="34" class="lang-name">40.00%</text> -->
                 <svg width="205">
                     <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd" />
