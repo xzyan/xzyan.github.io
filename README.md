@@ -1,13 +1,13 @@
 ### Hey 👋, I'm xzyan
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xzyan)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzyan)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xzyan&show_icons=true&theme=radical)
 
 ```go
 profile := `
 Thanks for visiting my profile, it's great to meet you here! 😊
 
-Here are some quick things about me:
+Here are some quick things about me:    
 
 map[string]string{
     "Name":     "Yan Yingsong",
