@@ -1,9 +1,6 @@
 ### Hey 👋, I'm xzyan
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzyan)](https://github.com/anuraghazra/github-readme-stats)
-
-![skills](http://xzyan.github.io/skills.svg)
-![hobbies](http://xzyan.github.io/hobbies.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ```go
 profile := `
@@ -22,3 +19,6 @@ map[string]string{
 
 fmt.Printf("%s\n", profile)
 ```
+
+![skills](http://xzyan.github.io/skills.svg)
+![hobbies](http://xzyan.github.io/hobbies.svg)
