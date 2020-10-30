@@ -2,17 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzyan)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xzyan&show_icons=true&theme=dark)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xzyan&show_icons=true&theme=radical)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xzyan&show_icons=true&theme=merko)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xzyan&show_icons=true&theme=gruvbox)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xzyan&show_icons=true&theme=tokyonight)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xzyan&show_icons=true&theme=onedark)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xzyan&show_icons=true&theme=cobalt)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xzyan&show_icons=true&theme=synthwave)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xzyan&show_icons=true&theme=highcontrast)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xzyan&show_icons=true&theme=dracula)
+![skills](http://xzyan.github.io/skills.svg)
+![hobbies](http://xzyan.github.io/hobbies.svg)
 
 ```go
 profile := `
@@ -31,6 +22,3 @@ map[string]string{
 
 fmt.Printf("%s\n", profile)
 ```
-
-![skills](http://xzyan.github.io/skills.svg)
-![hobbies](http://xzyan.github.io/hobbies.svg)
