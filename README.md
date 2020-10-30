@@ -1,7 +1,7 @@
 ### Hey 👋, I'm xzyan
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzyan)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xzyan&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xzyan&show_icons=true&theme=cobalt)
 
 ```go
 profile := `
